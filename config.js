@@ -1,12 +1,12 @@
-global.owner = ['62895331520602']  
-global.mods = ['62895331520602'] 
-global.prems = ['62895331520602']
-global.nameowner = 'Tio'
-global.numberowner = '62895331520602' 
+global.owner = ['6285606903903']  
+global.mods = ['6285606903903'] 
+global.prems = ['6285606903903']
+global.nameowner = 'VanzXTama'
+global.numberowner = '6285606903903' 
 global.mail = 'support@tioprm.eu.org' 
 global.gc = 'https://chat.whatsapp.com/CP5mV2D9IO730HpBgmkuyi'
 global.instagram = 'https://instagram.com/prm2.0'
-global.wm = '© Tio'
+global.wm = '© Vanz'
 global.wait = '_*Tunggu sedang di proses...*_'
 global.eror = '_*Server Error*_'
 global.stiker_wait = '*⫹⫺ Stiker sedang dibuat...*'
@@ -22,11 +22,11 @@ global.gcspam = false // Set true/false untuk menutup grup ketika spam (default:
 
 
 //INI WAJIB DI ISI!//
-global.btc = 'YOUR_APIKEY_HERE' 
+global.btc = 'Btz-BsnE9' 
 //Daftar terlebih dahulu https://api.botcahx.eu.org
 
 //INI OPTIONAL BOLEH DI ISI BOLEH JUGA ENGGA//
-global.lann = 'YOUR_APIKEY_HERE'
+global.lann = 'Btz-BsnE9'
 //Daftar https://api.betabotz.eu.org 
 
 //Gausah diganti
@@ -47,3 +47,4 @@ fs.watchFile(file, () => {
   delete require.cache[file]
   require(file)
 })
+    
